@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import Label, Button, Frame, Entry
-from functools import partial
 from random import randint, choice
 
 class Problem():
